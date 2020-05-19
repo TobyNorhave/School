@@ -1,5 +1,5 @@
 ## Vestbjerg Byggecenter
- - 1. Semester project on UCN.
+1. Semester project on UCN.
  
 # Introduction
 This project was the same for all students on UCN. The problemcase was given by the teachers.
