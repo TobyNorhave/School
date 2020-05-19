@@ -25,8 +25,8 @@ Since we got 2/10 restaurants willing to test the app, we decide to start a prod
 Based on all this, alot more company related suff was made.
 The company got it's first two mentors: Andreas Dirksen & Pernille Nørhr.
 
-Andres Dirksens: **<a href="https://signupacademy.com/en/home/" target="_blank">Check who he is?</a>**
-Pernille Nørhr: **A teacher that have insiders in the restaurant business**
+- Andres Dirksens: **<a href="https://signupacademy.com/en/home/" target="_blank">Check who he is?</a>**
+- Pernille Nørhr: **A teacher that have insiders in the restaurant business**
 
 And that's the end of the company's product for restaurants.
 
