@@ -1,2 +1,3 @@
-# MiniProjekt Persistens
-Et af Workshop/miniprojekterne, UCN
+# MiniProject Persistens
+A workshop/miniproject on UCN about persistens. 
+Made in Java.
