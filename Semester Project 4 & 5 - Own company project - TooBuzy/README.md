@@ -20,8 +20,8 @@ The app/system is made in Ionic & Angular as a prototype.
 ## Introduction
 This project is based on the 3 & 4. Semester project.
 
-The primary goal here was to get some customers to test the prototype and start developing the real deal. 
-Since we got 2/10 restaurants willing to test the app, we decide to start a production, since they liked the prototype and made a deal to be the first customers.
+The primary goal here was to get customers to test the prototype and start developing the real deal. 
+Since we got 2/10 restaurants willing to test the app, we decide to start a production (Since they liked the idea).
 Based on all this, alot more company related suff was made.
 The company got it's first two mentors: Andreas Dirksen & Pernille Nørhr.
 
